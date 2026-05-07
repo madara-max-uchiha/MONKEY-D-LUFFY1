@@ -1,0 +1,9 @@
+l=[20,30,40,"sandy",(10+20j),False,1]
+print(l[3])
+print(l[-2])
+l.reverse()
+print(l)
+print(l[1:4])
+print(l)
+l.remove(30)
+print(l)
